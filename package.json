@@ -1,5 +1,5 @@
 {
-  "name": "market",
+  "name": "market_bot",
   "version": "1.0.0",
   "description": "bns market bot",
   "main": "bot.js",
