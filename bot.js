@@ -53,7 +53,6 @@ client.on("message", (message) => {
                             .setThumbnail(data[i].img)
                             .setTimestamp();
                         ch.send(embed);
-                        message.author.send(embed);
                         console.log(embed);
                     }).error(() => console.log(error));
                 }
