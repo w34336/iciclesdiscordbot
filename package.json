@@ -1,0 +1,16 @@
+{
+  "name": "market bot",
+  "version": "1.0.0",
+  "description": "bns market bot",
+  "main": "bot.js",
+  "author": "Daniel",
+  "dependencies": {
+    "discord-rich-presence": "0.0.8",
+    "discord-rpc": "^3.0.1",
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
