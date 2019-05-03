@@ -1,9 +1,12 @@
 {
-  "name": "market bot",
+  "name": "market",
   "version": "1.0.0",
   "description": "bns market bot",
   "main": "bot.js",
   "author": "Daniel",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "dependencies": {
     "discord-rich-presence": "0.0.8",
     "discord-rpc": "^3.0.1",
